@@ -1,4 +1,5 @@
 <h1 align="center">Simple Snake game uisng Java Swings and JDBC</h1>
+<p  align="center"><img src="https://i0.wp.com/art.pixilart.com/fb74458ef703afa.gif?resize=300%2C300&ssl=1" alt="sanke game gif"/></p>
 <p>Inspired from <a href="https://www.youtube.com/c/BroCodez" target="_blank">BroCode</a><p>
 <p> Made with love by <a href="https://www.linkedin.com/in/anurag-g-a01531198/" target="_blank">Anurag Ghosh</a> & <a href="https://www.linkedin.com/in/kulkarniishan/" target="_blank">Ishan Kulkarni</a></p>
 <p>Code Compiled and Executed in Apache Netbean 12.0.2 and java mysql connector 8.0.4 on a Windows Device.</p>
